@@ -1,0 +1,40 @@
+h1 {
+	color: red;
+}
+
+p {
+	color: orange;
+}
+
+* {
+	font-family: verdana;
+	font-size: 16px;
+}
+
+body {
+	background: beige;
+	text-align: center;
+}
+
+.header {
+	background: gray;
+
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: orange;
+}
+.image {
+	width: 20%;
+	max-height: 200px;
+	border-radius: 50%;
+}
+.titles ul {
+	float: left;
+	background: orange;
+	border: 1px solid gray;
+	color: 3em bold;
+}
